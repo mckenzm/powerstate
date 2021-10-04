@@ -27,10 +27,10 @@
   To do: jumpers/resistors for UART displays requiring prefixes, suffixes.
          jumper for "slow" diagnostics mode.
 
-  RECOMMENDED SETTINGS FOR THIS SKETCH are H:FB and L:29
+  RECOMMENDED FUSE SETTINGS FOR THIS SKETCH are H:FB and L:29
   ------------------------------------------------------------------------------
 
-  Tools > Board          : ATtiny13
+  Tools > Board          : ATTiny13
   Tools > BOD            : 4.3V
   Tools > Clock          : 600KHz
   Tools > Timing         : Micros disabled
